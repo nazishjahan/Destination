@@ -13,6 +13,7 @@
 		D3094524266E09A70013F9BC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3094523266E09A70013F9BC /* Preview Assets.xcassets */; };
 		D309452F266E09A70013F9BC /* DestinationGHTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D309452E266E09A70013F9BC /* DestinationGHTests.swift */; };
 		D309453A266E09A70013F9BC /* DestinationGHUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3094539266E09A70013F9BC /* DestinationGHUITests.swift */; };
+		D309454B266F46C50013F9BC /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D309454A266F46C50013F9BC /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		D3094535266E09A70013F9BC /* DestinationGHUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DestinationGHUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3094539266E09A70013F9BC /* DestinationGHUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationGHUITests.swift; sourceTree = "<group>"; };
 		D309453B266E09A70013F9BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D309454A266F46C50013F9BC /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				D3094520266E09A70013F9BC /* Assets.xcassets */,
 				D3094525266E09A70013F9BC /* Info.plist */,
 				D3094522266E09A70013F9BC /* Preview Content */,
+				D309454A266F46C50013F9BC /* MyModel.swift */,
 			);
 			path = DestinationGH;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D309451F266E09A40013F9BC /* ContentView.swift in Sources */,
+				D309454B266F46C50013F9BC /* MyModel.swift in Sources */,
 				D309451D266E09A40013F9BC /* DestinationGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
