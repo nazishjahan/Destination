@@ -8,5 +8,5 @@
 import Foundation
 
 struct MyModel{
-    var model:String
+    var model="Huwawei"
 }
